@@ -1,5 +1,5 @@
 # Hospital-Data-Analysis-Dashboard-
-##Project Description
+## Project Description
 
 The Hospital Data Analysis Dashboard is an interactive data visualization project designed to analyze hospital operations, patient trends, and financial performance.
 
@@ -12,7 +12,7 @@ Project Objectives
 •	Identify areas for improvement in hospital services
 
 
- Dataset Overview
+ ## Dataset Overview
 
 The dataset contains hospital-related information such as:
 •	Patient ID
@@ -23,7 +23,8 @@ The dataset contains hospital-related information such as:
 •	Billing Amount
 •	Patient Outcome
 
- ##Key Performance Indicators (KPIs)
+ #Key Performance Indicators (KPIs)
+ 
 Total number of patients admitted to the hospital.
 Tracks number of admissions over time.
 Total income generated from patient billing.
