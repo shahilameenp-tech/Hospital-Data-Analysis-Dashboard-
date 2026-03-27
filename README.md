@@ -36,7 +36,7 @@ Number of patients per department
 Revenue generated per department
 
 ## Dashboard Features
-<img width="1440" height="900" alt="Screenshot" src="https://github.com/user-attachments/assets/ab3ab276-f60b-4686-91f4-246a7cfbbb1d" />
+<img width="1440" height="900" alt="Screenshot " src="https://github.com/user-attachments/assets/70a6048a-a9c8-4b36-9cd5-c0916455ab40" />
 
 •	Interactive filters ( Department, Gender,Outcome)
 •	Admission trends over time
@@ -66,7 +66,7 @@ It helps:
 
 Overall, the dashboard transforms raw hospital data into meaningful insights that can enhance efficiency and outcomes
 ## Project Link
-[Dashboard](https://livenorthumbriaac-my.sharepoint.com/:x:/g/personal/w24069453_northumbria_ac_uk/IQB_XsW4ISMfR7Az5ZCDBVx9ATKht00rI0w__YgLRGs0Bpg?e=S78Fkg)
+[Dashboard](https://livenorthumbriaac-my.sharepoint.com/:x:/g/personal/w24069453_northumbria_ac_uk/IQCxbKZNnK7jRKxDKLzPpAWEAYW3ffWRSB6_Cn5M6WJkU5U?e=0IaUFr)
 
 # Author
 
