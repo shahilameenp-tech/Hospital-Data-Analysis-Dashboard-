@@ -36,7 +36,8 @@ Number of patients per department
 Revenue generated per department
 
 ## Dashboard Features
-<img width="1440" height="900" alt="Screenshot " src="https://github.com/user-attachments/assets/70a6048a-a9c8-4b36-9cd5-c0916455ab40" />
+<img width="1440" height="900" alt="Screenshot " src="https://github.com/user-attachments/assets/41b9ec60-ba86-4706-be5c-cc0d759739db" />
+
 
 •	Interactive filters ( Department, Gender,Outcome)
 •	Admission trends over time
